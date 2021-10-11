@@ -1,6 +1,4 @@
-# Cinema-Booking-Website # Cinema-Booking-Website
-
-<!--  link -->
+# https://vryzhkova.github.io/Cinema-Booking-Website/
 
 # Cinema-Booking-Website - учебный проект
 ### Выполнила проект: Рыжкова Виктория
